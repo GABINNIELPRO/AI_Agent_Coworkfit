@@ -134,23 +134,25 @@ Classification d'intention (LLM)
 
 ### Présentation
 
-
+### Prise d'informations
 
 https://github.com/user-attachments/assets/b622cb63-1335-465a-87b9-3568b0d259ab
 
-
+### Chat avec l'agent
 
 https://github.com/user-attachments/assets/3f7cc753-16ae-4dbe-8cba-11702c886d35
 
 
-
+### Matching de professionnels
 
 https://github.com/user-attachments/assets/99068484-3f0c-4b54-b044-051da39ff9c8
 
 
+### Planification d'évènements
+
+https://github.com/user-attachments/assets/cc8fdea9-0543-47d2-88e3-e0a45005fb9a
 
 
-https://github.com/user-attachments/assets/593f3f62-fa00-4054-9e36-c589b848e507
 
 
 
